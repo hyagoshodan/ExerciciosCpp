@@ -30,6 +30,7 @@
 > O sizeof (double) é: 8 bytes <br/>
 > O sizeof (long double) é: 16 bytes <br/>
 > O sizeof (bool) é: 1 bytes <br/>
+> [Resposta](exerc_3.cpp)
 
 
 ## Exercícios 4
