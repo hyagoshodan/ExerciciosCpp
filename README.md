@@ -1,4 +1,4 @@
-# Soluções para os exercícios do w3resource.com
+# Soluções para os exercícios de C++ do w3resource.com
 
 ## Conteúdo
 
