@@ -21,15 +21,15 @@
 > Exemplo de saída: <br/>
 > Encontre o tamanho dos tipos de dados fundamentais: <br/>
 > ------------------------------------------ <br/>
-> O sizeof (char) é: 1 bytes
-> O sizeof (short) é: 2 bytes
-> O sizeof (int) é: 4 bytes
-> O sizeof (long) é: 8 bytes
-> O sizeof (long long) é: 8 bytes
-> O sizeof (float) é: 4 bytes
-> O sizeof (double) é: 8 bytes
-> O sizeof (long double) é: 16 bytes
-> O sizeof (bool) é: 1 bytes
+> O sizeof (char) é: 1 bytes <br/>
+> O sizeof (short) é: 2 bytes <br/>
+> O sizeof (int) é: 4 bytes <br/>
+> O sizeof (long) é: 8 bytes <br/>
+> O sizeof (long long) é: 8 bytes <br/>
+> O sizeof (float) é: 4 bytes <br/>
+> O sizeof (double) é: 8 bytes <br/>
+> O sizeof (long double) é: 16 bytes <br/>
+> O sizeof (bool) é: 1 bytes <br/>
 
 
 ## Exercícios 4
