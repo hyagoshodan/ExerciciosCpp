@@ -2,7 +2,7 @@
 
 ## Exercícios 1
 
-> Escreva um programa em C ++ para imprimir um texto de boas-vindas em uma linha separada.
+> Escreva um programa em C ++ para imprimir um texto de boas-vindas em linhas separadas.
 >
 > ```cpp
 > #include <iostream>
