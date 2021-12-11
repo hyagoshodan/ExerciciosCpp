@@ -15,4 +15,13 @@
 > O soma de 29 e 30 é: 59  <br/> 
 > [Resposta](exerc_2.cpp)
 
+## Exercícios 4
+
+> Escreva um programa em C ++ para imprimir a soma de dois números usando variáveis. <br/> 
+> Exemplo de saída: <br/> 
+> Imprima a soma de dois números: <br/>
+> ----------------------------------- <br/> 
+> O soma de 29 e 30 é: 59  <br/> 
+> [Resposta](exerc_4.cpp)
+
 
