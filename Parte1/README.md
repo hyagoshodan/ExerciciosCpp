@@ -11,7 +11,7 @@
 > Escreva um programa em C ++ para imprimir a soma de dois números.
 > Exemplo. Imprima a soma de dois números:
 > -----------------------------------
-> O soma de 29 e 30 é: 59
+> O soma de 29 e 30 é: 59  <br/> 
 > [Resposta](exerc_2.cpp)
 
 
