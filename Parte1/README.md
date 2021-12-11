@@ -15,6 +15,23 @@
 > O soma de 29 e 30 é: 59  <br/> 
 > [Resposta](exerc_2.cpp)
 
+## Exercícios 3
+
+> Escreva um programa em C ++ para encontrar o tamanho dos tipos de dados fundamentais. <br/> 
+> Exemplo de saída: <br/>
+> Encontre o tamanho dos tipos de dados fundamentais: <br/>
+> ------------------------------------------ <br/>
+> O sizeof (char) é: 1 bytes
+> O sizeof (short) é: 2 bytes
+> O sizeof (int) é: 4 bytes
+> O sizeof (long) é: 8 bytes
+> O sizeof (long long) é: 8 bytes
+> O sizeof (float) é: 4 bytes
+> O sizeof (double) é: 8 bytes
+> O sizeof (long double) é: 16 bytes
+> O sizeof (bool) é: 1 bytes
+
+
 ## Exercícios 4
 
 > Escreva um programa em C ++ para imprimir a soma de dois números usando variáveis. <br/> 
