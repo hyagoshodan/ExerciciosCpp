@@ -3,5 +3,6 @@
 ## Exercícios 1
 
 > Escreva um programa em C ++ para imprimir um texto de boas-vindas
-> (Seja bem-vindo ao www.w3resource.com) em linhas separadas.
+> <br/> (Seja bem-vindo ao www.w3resource.com) em linhas separadas.
 > [Resposta](exerc_1.cpp)
+
