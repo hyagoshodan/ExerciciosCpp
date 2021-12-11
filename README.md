@@ -2,4 +2,6 @@
 
 ## Conteúdo
 
-- Parte I: O Básico
+- Parte I:  O básico
+- Parte II: O básico de algoritmos
+-  
