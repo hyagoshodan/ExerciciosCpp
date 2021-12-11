@@ -2,7 +2,7 @@
 
 ## Conteúdo
 
-- Parte I: O básico(Parte1/README.md)
+- [Parte I: O básico](Parte1/README.md)
 - Parte II: O básico de Algoritmos
 - Parte III: For-Loops
 - Parte IV: Strings
