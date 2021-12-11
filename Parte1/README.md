@@ -3,4 +3,4 @@
 ## Exercícios 1
 
 > Escreva um programa em C ++ para imprimir um texto de boas-vindas em linhas separadas.
-[Resposta](Parte/exerc_1.cpp)
+> [Resposta](Parte/exerc_1.cpp)
