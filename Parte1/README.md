@@ -8,9 +8,9 @@
 
 ## Exercícios 2
 
-> Escreva um programa em C ++ para imprimir a soma de dois números.
-> Exemplo. Imprima a soma de dois números:
-> "-----------------------------------"
+> Escreva um programa em C ++ para imprimir a soma de dois números. <br/> 
+> Exemplo. Imprima a soma de dois números: <br/>
+> "-----------------------------------" <br/> 
 > O soma de 29 e 30 é: 59  <br/> 
 > [Resposta](exerc_2.cpp)
 
