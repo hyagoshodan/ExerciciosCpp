@@ -44,6 +44,7 @@
 
 
 ## Exercícios 5
+### Material didático: https://acervolima.com/climits-limits-h-em-c-c/
 
 > Escreva um programa em C ++ para verificar os limites superior e inferior do número inteiro. <br/> 
 > Saída esperada:<br/> 
