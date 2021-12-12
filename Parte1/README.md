@@ -9,11 +9,8 @@
 ## Exercícios 2
 
 > Escreva um programa em C ++ para imprimir a soma de dois números. <br/> 
-<<<<<<< HEAD
-> Exemplo de saída: <br/> 
-=======
+> Exemplo de saída: <br/>
 > Saída esperada:<br/> 
->>>>>>> parent of 40f19f3... Update README.md
 > Imprima a soma de dois números: <br/>
 > ----------------------------------- <br/> 
 > O soma de 29 e 30 é: 59  <br/> 
