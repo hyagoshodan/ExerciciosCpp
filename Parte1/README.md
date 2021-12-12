@@ -70,16 +70,16 @@
 
 ## Exercícios 5
  
-> Escreva um programa em C ++ para verificar se os valores primitivos ultrapassam os limites ou não.
-> Verifique se os valores primitivos ultrapassam os limites ou não:
-> ---------------------------------------------------------------------
-> O gênero é: F
-> Ela é casada? : 1
-> Número de filhos que ela tem: 2
-> Ano de sua nomeação: 2009
-> Salário por um ano: 1500000
-> Altura é: 79,48
-> GPA é 4,69
-> Salário elaborado até: 12047235
-> Saldo até: 995324987
+> Escreva um programa em C ++ para verificar se os valores primitivos ultrapassam os limites ou não.<br/> 
+> Verifique se os valores primitivos ultrapassam os limites ou não:<br/> 
+> ---------------------------------------------------------------------<br/> 
+> O gênero é: F<br/> 
+> Ela é casada? : 1<br/> 
+> Número de filhos que ela tem: 2<br/> 
+> Ano de sua nomeação: 2009<br/> 
+> Salário por um ano: 1500000<br/> 
+> Altura é: 79,48<br/> 
+> GPA é 4,69<br/> 
+> Salário elaborado até: 12047235<br/> 
+> Saldo até: 995324987<br/> 
 > [Resposta](exerc_6.cpp)
