@@ -67,3 +67,23 @@
 > O limite máximo do tipo de dados curtos não assinados: 65535 <br/> 
 > [Resposta](exerc_5.cpp)
 
+
+## Exercícios 7
+
+> Escreva um programa em C ++ para exibir vários tipos ou operações aritméticas usando tipos de dados mistos.
+> Saída esperada:<br/> 
+> Exibir operações aritméticas com tipos de dados mistos:
+> ---------------------------------------------------------
+> 5 + 7 = 12
+> 3.7 + 8.0 = 11.7
+> 5 + 8.0 = 13.0
+> 5 - 7 = -2
+> 3.7 - 8.0 = -4.3
+> 5 - 8.0 = -3.0
+> 5 * 7 = 35
+> 3.7 * 8.0 = 29.6
+> 5 * 8.0 = 40.0
+> 5 / 7 = 0
+> 3.7 / 8.0 = 0.5
+> 5 / 8.0 = 0.6
+> [Resposta](exerc_7.cpp)
