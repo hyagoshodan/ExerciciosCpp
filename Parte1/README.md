@@ -9,7 +9,7 @@
 ## Exercícios 2
 
 > Escreva um programa em C ++ para imprimir a soma de dois números. <br/> 
-> Exemplo de saída: <br/> 
+> Saída esperada:<br/> 
 > Imprima a soma de dois números: <br/>
 > ----------------------------------- <br/> 
 > O soma de 29 e 30 é: 59  <br/> 
@@ -18,7 +18,7 @@
 ## Exercícios 3
 
 > Escreva um programa em C ++ para encontrar o tamanho dos tipos de dados fundamentais. <br/> 
-> Exemplo de saída: <br/>
+> Saída esperada:<br/>
 > Encontre o tamanho dos tipos de dados fundamentais: <br/>
 > ------------------------------------------ <br/>
 > O sizeof (char) é: 1 bytes <br/>
@@ -36,7 +36,7 @@
 ## Exercícios 4
 
 > Escreva um programa em C ++ para imprimir a soma de dois números usando variáveis. <br/> 
-> Exemplo de saída: <br/> 
+> Saída esperada:<br/> 
 > Imprima a soma de dois números: <br/>
 > ----------------------------------- <br/> 
 > O soma de 29 e 30 é: 59  <br/> 
@@ -66,3 +66,20 @@
 > O limite máximo do tipo de dados curtos: 32767<br/> 
 > O limite máximo do tipo de dados curtos não assinados: 65535 <br/> 
 > [Resposta](exerc_5.cpp)
+
+
+## Exercícios 5
+ 
+> Escreva um programa em C ++ para verificar se os valores primitivos ultrapassam os limites ou não.
+> Verifique se os valores primitivos ultrapassam os limites ou não:
+> ---------------------------------------------------------------------
+> O gênero é: F
+> Ela é casada? : 1
+> Número de filhos que ela tem: 2
+> Ano de sua nomeação: 2009
+> Salário por um ano: 1500000
+> Altura é: 79,48
+> GPA é 4,69
+> Salário elaborado até: 12047235
+> Saldo até: 995324987
+> [Resposta](exerc_6.cpp)
