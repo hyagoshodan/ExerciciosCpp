@@ -63,5 +63,5 @@
 > O limite máximo do tipo de dados unsigned char: 255<br/> 
 > O limite mínimo do tipo de dados curtos: - 32768<br/> 
 > O limite máximo do tipo de dados curtos: 32767<br/> 
-> O limite máximo do tipo de dados curtos não assinados:65535 <br/> 
+> O limite máximo do tipo de dados curtos não assinados: 65535 <br/> 
 > [Resposta](exerc_5.cpp)
