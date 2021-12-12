@@ -43,7 +43,7 @@
 > [Resposta](exerc_4.cpp)
 
 
-## Exercícios 4
+## Exercícios 5
 
 > Escreva um programa em C ++ para verificar os limites superior e inferior do número inteiro. <br/> 
 > Saída esperada:<br/> 
