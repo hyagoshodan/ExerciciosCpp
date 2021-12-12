@@ -70,20 +70,20 @@
 
 ## Exercícios 7
 
-> Escreva um programa em C ++ para exibir vários tipos ou operações aritméticas usando tipos de dados mistos.
+> Escreva um programa em C ++ para exibir vários tipos ou operações aritméticas usando tipos de dados mistos.<br/> 
 > Saída esperada:<br/> 
-> Exibir operações aritméticas com tipos de dados mistos:
-> ---------------------------------------------------------
-> 5 + 7 = 12
-> 3.7 + 8.0 = 11.7
-> 5 + 8.0 = 13.0
-> 5 - 7 = -2
-> 3.7 - 8.0 = -4.3
-> 5 - 8.0 = -3.0
-> 5 * 7 = 35
-> 3.7 * 8.0 = 29.6
-> 5 * 8.0 = 40.0
-> 5 / 7 = 0
-> 3.7 / 8.0 = 0.5
-> 5 / 8.0 = 0.6
-> [Resposta](exerc_7.cpp)
+> Exibir operações aritméticas com tipos de dados mistos:<br/> 
+> ---------------------------------------------------------<br/> 
+> 5 + 7 = 12<br/> 
+> 3.7 + 8.0 = 11.7<br/> 
+> 5 + 8.0 = 13.0<br/> 
+> 5 - 7 = -2<br/> 
+> 3.7 - 8.0 = -4.3<br/> 
+> 5 - 8.0 = -3.0<br/> 
+> 5 * 7 = 35<br/> 
+> 3.7 * 8.0 = 29.6<br/> 
+> 5 * 8.0 = 40.0<br/> 
+> 5 / 7 = 0<br/> 
+> 3.7 / 8.0 = 0.5<br/> 
+> 5 / 8.0 = 0.6<br/> 
+> [Resposta](exerc_7.cpp)<br/> 
