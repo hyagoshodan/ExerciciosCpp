@@ -70,4 +70,4 @@
 > O limite máximo do tipo de dados curtos: 32767<br/> 
 > O limite máximo do tipo de dados curtos não assinados: 65535 <br/> 
 > [Resposta](exerc_5.cpp)
-<<<<<<< HEAD
+
