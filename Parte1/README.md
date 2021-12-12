@@ -44,8 +44,7 @@
 
 
 ## Exercícios 5
-### Material didático: https://acervolima.com/climits-limits-h-em-c-c/<br/> 
-https://docs.microsoft.com/pt-br/cpp/c-language/cpp-integer-limits?view=msvc-170
+### Material didático: https://docs.microsoft.com/pt-br/cpp/c-language/cpp-integer-limits?view=msvc-170
 
 > Escreva um programa em C ++ para verificar os limites superior e inferior do número inteiro. <br/> 
 > Saída esperada:<br/> 
