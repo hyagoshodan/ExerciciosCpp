@@ -9,7 +9,7 @@
 ## Exercícios 2
 
 > Escreva um programa em C ++ para imprimir a soma de dois números. <br/> 
-> Exemplo de saída: <br/>
+> Saída esperada:<br/>
 > Saída esperada:<br/> 
 > Imprima a soma de dois números: <br/>
 > ----------------------------------- <br/> 
@@ -19,7 +19,7 @@
 ## Exercícios 3
 
 > Escreva um programa em C ++ para encontrar o tamanho dos tipos de dados fundamentais. <br/> 
-> Exemplo de saída: <br/>
+> Saída esperada: <br/>
 > Encontre o tamanho dos tipos de dados fundamentais: <br/>
 > ------------------------------------------ <br/>
 > O sizeof (char) é: 1 bytes <br/>
@@ -37,7 +37,7 @@
 ## Exercícios 4
 
 > Escreva um programa em C ++ para imprimir a soma de dois números usando variáveis. <br/> 
-> Exemplo de saída: <br/> 
+> Saída esperada: <br/> 
 > Imprima a soma de dois números: <br/>
 > ----------------------------------- <br/> 
 > O soma de 29 e 30 é: 59  <br/> 
