@@ -90,6 +90,17 @@
 > [Resposta](exerc_7.cpp)<br/> 
 
 
+## Exercícios 25
+
+>Escreva um programa em C ++ para converter a temperatura em Kelvin para Celsius.<br/> 
+>Saída esperada:<br/>
+>Converta a temperatura em Kelvin para Celsius:<br/> 
+>------------------------------------ ------------<br/> 
+>Insira a temperatura em Kelvin: 300<br/> 
+>A temperatura em Kelvin: 300<br/> 
+>A temperatura em Celsius: 26,85<br/> 
+
+
 ## Exercícios 41
 
 > Escreva um programa em C ++ para imprimir uma bandeira americana na tela.<br/> 
