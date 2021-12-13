@@ -9,7 +9,6 @@
 ## Exercícios 2
 
 > Escreva um programa em C ++ para imprimir a soma de dois números. <br/> 
-> Saída esperada:<br/>
 > Saída esperada:<br/> 
 > Imprima a soma de dois números: <br/>
 > ----------------------------------- <br/> 
