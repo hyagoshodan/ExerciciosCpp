@@ -90,6 +90,17 @@
 > [Resposta](exerc_7.cpp)<br/> 
 
 
+## Exercícios 23
+
+>Escreva um programa em C ++ que converta quilômetros por hora em milhas por hora.<br/> 
+>Saída esperada:<br/>
+>Converta quilômetros por hora em milhas por hora:<br/> 
+>----------------------------------------------------<br/> 
+>Insira a distância em quilômetros: 25<br/> 
+>A 25 Km./hr. significa 15,5343 milhas / hr.<br/> 
+
+
+
 ## Exercícios 25
 
 >Escreva um programa em C ++ para converter a temperatura em Kelvin para Celsius.<br/> 
