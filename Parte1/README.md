@@ -97,12 +97,12 @@
 >Converta quilômetros por hora em milhas por hora:<br/> 
 >----------------------------------------------------<br/> 
 >Insira a distância em quilômetros: 25<br/> 
->A 25 Km./hr. significa 15,5343 milhas / hr.<br/> 
+>A 25 Km/h. significa 15,5343 Mph.<br/> 
 
 
 
 ## Exercícios 25
-
+### Material didático: https://pt.wikihow.com/Converter-Celsius-para-Kelvin
 >Escreva um programa em C ++ para converter a temperatura em Kelvin para Celsius.<br/> 
 >Saída esperada:<br/>
 >Converta a temperatura em Kelvin para Celsius:<br/> 
