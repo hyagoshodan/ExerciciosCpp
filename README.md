@@ -3,8 +3,8 @@
 ## Conteúdo
 
 - [Parte I: O básico](Parte1/README.md)
-- Parte II: O básico de Algoritmos
-- Parte III: For-Loops
+- [Parte II: O básico de Algoritmos](Parte2/README.md)
+- [Parte III: For-Loops](Parte3/README.md)
 - Parte IV: Strings
 - Parte V: Arrays
 - Parte VI: Matemática
