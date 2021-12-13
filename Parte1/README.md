@@ -106,7 +106,7 @@
 >Escreva um programa em C ++ para converter a temperatura em Kelvin para Celsius.<br/> 
 >Saída esperada:<br/>
 >Converta a temperatura em Kelvin para Celsius:<br/> 
->------------------------------------ ------------<br/> 
+>------------------------------------------------<br/> 
 >Insira a temperatura em Kelvin: 300<br/> 
 >A temperatura em Kelvin: 300<br/> 
 >A temperatura em Celsius: 26,85<br/> 
