@@ -6,3 +6,4 @@
 > Saída esperada:<br/>
 > Os números naturais são:<br/>
 > 1 2 3 4 5 6 7 8 9 10<br/>
+> [Resposta](exerc_1.cpp)
