@@ -98,6 +98,7 @@
 >----------------------------------------------------<br/> 
 >Insira a distância em quilômetros: 25<br/> 
 >A 25 Km/h. significa 15,5343 Mph.<br/> 
+> [Resposta](exerc_23.cpp)<br/> 
 
 
 
@@ -110,7 +111,7 @@
 >Insira a temperatura em Kelvin: 300<br/> 
 >A temperatura em Kelvin: 300<br/> 
 >A temperatura em Celsius: 26,85<br/> 
-
+> [Resposta](exerc_25.cpp)<br/> 
 
 ## Exercícios 41
 
