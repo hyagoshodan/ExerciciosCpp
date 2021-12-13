@@ -2,7 +2,8 @@
 
 ## Exercícios 1
 
-> Escreva um programa C ++ para calcular a soma dos dois valores inteiros fornecidos. Se os dois valores forem iguais, retorne o triplo de sua soma.<br/>
+> Escreva um programa C ++ para calcular a soma dos dois valores inteiros fornecidos.<br/> 
+> Se os dois valores forem iguais, retorne o triplo de sua soma.<br/>
 > Entrada esperada:<br/>
 > 1, 2<br/>
 > 3, 2<br/>
