@@ -102,6 +102,8 @@
 > Depois do pós-decremento por 1, o número é: 59<br/> 
 > Depois do pré-decremento por 1, o número é: 58<br/> 
 > Depois do decréscimo por 1, o número é: 57<br/> 
+> [Resposta](exerc_9.cpp)<br/>
+
 
 ## Exercícios 23
 
