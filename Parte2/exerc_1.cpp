@@ -20,7 +20,7 @@ int main()
    cout << "Saída: \n";
         if ( numero1 == numero2 )
         {
-            cout << (numero1 + numero2) *( numero1 + numero2)
+            cout << (numero1 + numero2) * 3
                     << endl;
         } else {
             cout << numero1 + numero2 << endl;
@@ -28,7 +28,7 @@ int main()
 
         if ( numero3 == numero4 )
         {
-            cout << (numero3 + numero4) * (numero3 + numero4)
+            cout << (numero3 + numero4) * 3
                  << endl;
         } else {
             cout << numero3 + numero4 << endl;
@@ -36,7 +36,7 @@ int main()
 
         if ( numero5 == numero6 )
         {
-            cout << (numero5 + numero6) * (numero5 * numero6)
+            cout << (numero5 + numero6) * 3
                  << endl;
         } else {
             cout << numero5 + numero6 << endl;
