@@ -89,6 +89,20 @@
 > [Resposta](exerc_7.cpp)<br/> 
 
 
+## Exercícios 9
+
+> Escreva um programa em C ++ para exibir a operação de pré e pós incremento e decremento. <br/> 
+> Saída esperada:<br/>
+> Exibir a operação de pré e pós incremento e decremento: <br/> 
+> ------------------------------------------------------------------- <br/> 
+> O número é: 57 <br/> 
+> Depois do pós-incremento por 1, o número é: 58<br/> 
+> Depois do pré-incremento por 1, o número é: 59<br/> 
+> Depois do acréscimo por 1, o número é: 60<br/> 
+> Depois do pós-decremento por 1, o número é: 59<br/> 
+> Depois do pré-decremento por 1, o número é: 58<br/> 
+> Depois do decréscimo por 1, o número é: 57<br/> 
+
 ## Exercícios 23
 
 >Escreva um programa em C ++ que converta quilômetros por hora em milhas por hora.<br/> 
