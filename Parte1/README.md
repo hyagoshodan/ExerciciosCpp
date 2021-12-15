@@ -191,7 +191,7 @@
 > 5 x 8 = 40<br/> 
 > 5 x 9 = 45<br/> 
 > 5 x 10 = 50<br/> 
-> [Resposta](exerc_25.cpp)<br/> 
+> [Resposta](exerc_38.cpp)<br/> 
 
 
 
