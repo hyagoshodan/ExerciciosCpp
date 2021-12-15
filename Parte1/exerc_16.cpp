@@ -8,7 +8,7 @@ int main()
     int altura;
     int area;
     double pi = 3.14;
-    double soma; 
+    double soma;
 
     cout << "Calcule o volume de um cilindro:" << endl;
     cout << "-----------------------------" << endl;
