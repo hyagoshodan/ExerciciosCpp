@@ -175,6 +175,25 @@
 > [Resposta](exerc_25.cpp)<br/> 
 
 
+## Exercício 38
+> Escreva um programa em C ++ que recebe um número como entrada e imprime sua tabuada até 10.<br/> 
+> Saída esperada:<br/> 
+> Imprima a tabuada de um número até 10:<br/> 
+> --------------------------------------------------------<br/> 
+> Insira um número: 5<br/> 
+> 5 x 1 = 5<br/> 
+> 5 x 2 = 10<br/> 
+> 5 x 3 = 15<br/> 
+> 5 x 4 = 20<br/> 
+> 5 x 5 = 25<br/> 
+> 5 x 6 = 30<br/> 
+> 5 x 7 = 35<br/> 
+> 5 x 8 = 40<br/> 
+> 5 x 9 = 45<br/> 
+> 5 x 10 = 50<br/> 
+> [Resposta](exerc_25.cpp)<br/> 
+
+
 
 ## Exercício 41
 
