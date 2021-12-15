@@ -114,7 +114,7 @@
 > Insira o primeiro número: 25<br/>
 > Insira o segundo número: 39<br/>
 > A soma dos números são: 64<br/>
-> [Resposta](exerc_9.cpp)<br/>
+> [Resposta](exerc_12.cpp)<br/>
 
 
 ## Exercícios 23
