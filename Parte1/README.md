@@ -1,12 +1,12 @@
 # Parte 1. O básico
 
-## Exercícios 1
+## Exercício 1
 
 > Escreva um programa em C ++ para imprimir um texto de boas-vindas
 > (Seja bem-vindo ao www.w3resource.com) em linhas separadas. <br/> 
 > [Resposta](exerc_1.cpp)
 
-## Exercícios 2
+## Exercício 2
 
 > Escreva um programa em C ++ para imprimir a soma de dois números. <br/> 
 > Saída esperada:<br/> 
@@ -15,7 +15,7 @@
 > O soma de 29 e 30 é: 59  <br/> 
 > [Resposta](exerc_2.cpp)
 
-## Exercícios 3
+## Exercício 3
 
 > Escreva um programa em C ++ para encontrar o tamanho dos tipos de dados fundamentais. <br/> 
 > Saída esperada: <br/>
@@ -33,7 +33,7 @@
 > [Resposta](exerc_3.cpp)
 
 
-## Exercícios 4
+## Exercício 4
 
 > Escreva um programa em C ++ para imprimir a soma de dois números usando variáveis. <br/> 
 > Saída esperada: <br/> 
@@ -43,7 +43,7 @@
 > [Resposta](exerc_4.cpp)
 
 
-## Exercícios 5
+## Exercício 5
 ### Material didático: https://docs.microsoft.com/pt-br/cpp/c-language/cpp-integer-limits?view=msvc-170
 
 > Escreva um programa em C ++ para verificar os limites superior e inferior do número inteiro. <br/> 
@@ -68,7 +68,7 @@
 > [Resposta](exerc_5.cpp)
 
 
-## Exercícios 7
+## Exercício 7
 
 > Escreva um programa em C ++ para exibir vários tipos ou operações aritméticas usando tipos de dados mistos.<br/> 
 > Saída esperada:<br/> 
@@ -89,7 +89,7 @@
 > [Resposta](exerc_7.cpp)<br/> 
 
 
-## Exercícios 9
+## Exercício 9
 
 > Escreva um programa em C ++ para exibir a operação de pré e pós incremento e decremento. <br/> 
 > Saída esperada:<br/>
@@ -105,7 +105,7 @@
 > [Resposta](exerc_9.cpp)<br/>
 
 
-## Exercícios 12
+## Exercício 12
 
 > Escreva um programa em C ++ para somar dois números aceitos pelo teclado.<br/>
 > Saída esperada:<br/>
@@ -117,7 +117,17 @@
 > [Resposta](exerc_12.cpp)<br/>
 
 
-## Exercícios 23
+## Exercício 15
+> Escreva um programa em C ++ para calcular o volume de um cubo.<br\>
+> Saída esperada:<br\>
+> Calcule o volume de um cubo:<br\>
+> -------------------------------------<br\>
+> Insira o lado de um cubo: 5<br\>
+> O volume de um cubo é: 125<br\>
+> > [Resposta](exerc_15.cpp)<br/>
+
+
+## Exercício 23
 
 >Escreva um programa em C ++ que converta quilômetros por hora em milhas por hora.<br/> 
 >Saída esperada:<br/>
@@ -129,7 +139,7 @@
 
 
 
-## Exercícios 25
+## Exercício 25
 ### Material didático: https://pt.wikihow.com/Converter-Celsius-para-Kelvin
 >Escreva um programa em C ++ para converter a temperatura em Kelvin para Celsius.<br/> 
 >Saída esperada:<br/>
@@ -140,7 +150,7 @@
 >A temperatura em Celsius: 26,85<br/> 
 > [Resposta](exerc_25.cpp)<br/> 
 
-## Exercícios 41
+## Exercício 41
 
 > Escreva um programa em C ++ para imprimir uma bandeira americana na tela.<br/> 
 > Saída esperada:<br/>
