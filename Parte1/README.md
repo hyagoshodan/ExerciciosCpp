@@ -118,12 +118,12 @@
 
 
 ## Exercício 15
-> Escreva um programa em C ++ para calcular o volume de um cubo.<br\>
-> Saída esperada:<br\>
-> Calcule o volume de um cubo:<br\>
-> -------------------------------------<br\>
-> Insira o lado de um cubo: 5<br\>
-> O volume de um cubo é: 125<br\>
+> Escreva um programa em C ++ para calcular o volume de um cubo.<br/>
+> Saída esperada:<br/>
+> Calcule o volume de um cubo:<br/>
+> -------------------------------------<br/>
+> Insira o lado de um cubo: 5<br/>
+> O volume de um cubo é: 125<br/>
 > > [Resposta](exerc_15.cpp)<br/>
 
 
