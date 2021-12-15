@@ -140,14 +140,14 @@
 
 ## Exercício 16
 ### Material didático: https://pt.wikihow.com/Calcular-o-Volume-de-um-Cilindro
-> Escreva um programa em C ++ para calcular o volume de um cilindro. 
-> Saída esperada:
-> Calcule o volume de um cilindro:
-> ------------------------------------ -----
-> Insira o raio do cilindro: 6
-> Insira a altura do cilindro: 8
-> O volume de um cilindro é: 904,32
-> [Resposta](exerc_16.cpp)<br/>
+> Escreva um programa em C ++ para calcular o volume de um cilindro. <br/>
+> Saída esperada:<br/>
+> Calcule o volume de um cilindro:<br/>
+> ------------------------------------ -----<br/>
+> Insira o raio do cilindro: 6<br/>
+> Insira a altura do cilindro: 8<br/>
+> O volume de um cilindro é: 904,32<br/>
+> [Resposta](exerc_16.cpp)<br/><br/>
 
 
 
