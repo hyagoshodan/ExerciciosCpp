@@ -6,6 +6,8 @@
 > (Seja bem-vindo ao www.w3resource.com) em linhas separadas. <br/> 
 > [Resposta](exerc_1.cpp)
 
+
+
 ## Exercício 2
 
 > Escreva um programa em C ++ para imprimir a soma de dois números. <br/> 
@@ -14,6 +16,8 @@
 > ----------------------------------- <br/> 
 > O soma de 29 e 30 é: 59  <br/> 
 > [Resposta](exerc_2.cpp)
+
+
 
 ## Exercício 3
 
@@ -33,6 +37,7 @@
 > [Resposta](exerc_3.cpp)
 
 
+
 ## Exercício 4
 
 > Escreva um programa em C ++ para imprimir a soma de dois números usando variáveis. <br/> 
@@ -41,6 +46,7 @@
 > ----------------------------------- <br/> 
 > O soma de 29 e 30 é: 59  <br/> 
 > [Resposta](exerc_4.cpp)
+
 
 
 ## Exercício 5
@@ -68,6 +74,7 @@
 > [Resposta](exerc_5.cpp)
 
 
+
 ## Exercício 7
 
 > Escreva um programa em C ++ para exibir vários tipos ou operações aritméticas usando tipos de dados mistos.<br/> 
@@ -89,6 +96,7 @@
 > [Resposta](exerc_7.cpp)<br/> 
 
 
+
 ## Exercício 9
 
 > Escreva um programa em C ++ para exibir a operação de pré e pós incremento e decremento. <br/> 
@@ -105,6 +113,7 @@
 > [Resposta](exerc_9.cpp)<br/>
 
 
+
 ## Exercício 12
 
 > Escreva um programa em C ++ para somar dois números aceitos pelo teclado.<br/>
@@ -117,6 +126,7 @@
 > [Resposta](exerc_12.cpp)<br/>
 
 
+
 ## Exercício 15
 > Escreva um programa em C ++ para calcular o volume de um cubo.<br/>
 > Saída esperada:<br/>
@@ -124,7 +134,21 @@
 > -------------------------------------<br/>
 > Insira o lado de um cubo: 5<br/>
 > O volume de um cubo é: 125<br/>
-> > [Resposta](exerc_15.cpp)<br/>
+> [Resposta](exerc_15.cpp)<br/>
+
+
+
+## Exercício 16
+### Material didático: https://pt.wikihow.com/Calcular-o-Volume-de-um-Cilindro
+> Escreva um programa em C ++ para calcular o volume de um cilindro. 
+> Saída esperada:
+> Calcule o volume de um cilindro:
+> ------------------------------------ -----
+> Insira o raio do cilindro: 6
+> Insira a altura do cilindro: 8
+> O volume de um cilindro é: 904,32
+> [Resposta](exerc_16.cpp)<br/>
+
 
 
 ## Exercício 23
@@ -149,6 +173,8 @@
 >A temperatura em Kelvin: 300<br/> 
 >A temperatura em Celsius: 26,85<br/> 
 > [Resposta](exerc_25.cpp)<br/> 
+
+
 
 ## Exercício 41
 
