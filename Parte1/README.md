@@ -107,7 +107,7 @@
 
 ## Exercícios 12
 
-> Escreva um programa em C ++ para adicionar dois números aceitos pelo teclado.<br/>
+> Escreva um programa em C ++ para somar dois números aceitos pelo teclado.<br/>
 > Saída esperada:<br/>
 > Soma de dois números:<br/>
 > -------------------------<br/>
