@@ -105,6 +105,18 @@
 > [Resposta](exerc_9.cpp)<br/>
 
 
+## Exercícios 12
+
+> Escreva um programa em C ++ para adicionar dois números aceitos pelo teclado.<br/>
+> Saída esperada:<br/>
+> Soma de dois números:<br/>
+> -------------------------<br/>
+> Insira o primeiro número: 25<br/>
+> Insira o segundo número: 39<br/>
+> A soma de os números são: 64<br/>
+> [Resposta](exerc_9.cpp)<br/>
+
+
 ## Exercícios 23
 
 >Escreva um programa em C ++ que converta quilômetros por hora em milhas por hora.<br/> 
