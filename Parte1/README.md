@@ -195,6 +195,19 @@
 
 
 
+## Exercício 39
+> Escreva um programa em C ++ para imprimir o seguinte padrão.
+>   xxxxx
+>  xxxx                                                                                      
+>  xxx                                                                                      
+>  x xxxxxxx xxxxxxx                                                                                   
+>  xxx                                                                                      
+>  xxxx                                                                                      
+>   xxxxx  
+> [Resposta](exerc_39.cpp)<br/> 
+
+
+
 ## Exercício 41
 
 > Escreva um programa em C ++ para imprimir uma bandeira americana na tela.<br/> 
