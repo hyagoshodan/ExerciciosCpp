@@ -203,7 +203,7 @@
 >  x xxxxxxx xxxxxxx                                                                                  
 >  xxx                                                                                  
 >  xxxx                                                                                   
->   xxxxx 
+>   xxxxx <br/>
 > [Resposta](exerc_39.cpp) 
 
 
