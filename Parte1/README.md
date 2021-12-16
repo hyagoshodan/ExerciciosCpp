@@ -197,13 +197,13 @@
 
 ## Exercício 39
 > Escreva um programa em C ++ para imprimir o seguinte padrão.<br/> 
->   xxxxx<br/> 
->  xxxx                                                                                  
->  xxx                                                                                 
->  x xxxxxxx xxxxxxx                                                                                  
->  xxx                                                                                  
->  xxxx                                                                                   
->   xxxxx <br/>
+ xxxxx                                                                                                        
+x     x       x        x                                                                                      
+x             x        x                                                                                      
+x          xxxxxxx  xxxxxxx                                                                                   
+x             x        x                                                                                      
+x     x       x        x                                                                                      
+ xxxxx  
 > [Resposta](exerc_39.cpp) 
 
 
