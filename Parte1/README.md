@@ -197,7 +197,7 @@
 
 ## Exercício 39
 > Escreva um programa em C ++ para imprimir o seguinte padrão.<br/> 
->   xxxxx 
+>   xxxxx<br/> 
 >  xxxx                                                                                  
 >  xxx                                                                                 
 >  x xxxxxxx xxxxxxx                                                                                  
