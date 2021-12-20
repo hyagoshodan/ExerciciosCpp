@@ -139,7 +139,7 @@
 
 
 ## Exercício 16
-### Material didático: https://pt.wikihow.com/Calcular-o-Volume-de-um-Cilindro
+### Material didático: https://www.youtube.com/watch?v=zYLmWhH_qQk
 > Escreva um programa em C ++ para calcular o volume de um cilindro. <br/>
 > Saída esperada:<br/>
 > Calcule o volume de um cilindro:<br/>
@@ -152,7 +152,7 @@
 
 
 ## Exercício 17
-
+### Material didático: https://www.youtube.com/watch?v=9wJcIcqw8Q0
 > Escreva um programa em C++ para encontrar a área e o perímetro de um retângulo.<br/>
 > Saída esperada:<br/>
 > Encontre a área e o perímetro de um retângulo:<br/>
@@ -178,7 +178,7 @@
 
 
 ## Exercício 25
-### Material didático: https://pt.wikihow.com/Converter-Celsius-para-Kelvin
+### Material didático: https://www.youtube.com/watch?v=xUijIWcHH-M
 >Escreva um programa em C ++ para converter a temperatura em Kelvin para Celsius.<br/> 
 >Saída esperada:<br/>
 >Converta a temperatura em Kelvin para Celsius:<br/> 
