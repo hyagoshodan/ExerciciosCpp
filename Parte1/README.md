@@ -230,3 +230,13 @@
 > "=============================================="<br/> 
 > "=============================================="<br/> 
 > [Resposta](exerc_41.cpp)<br/> 
+
+
+
+## Exercício 66
+
+> Escreva um programa C++ para somar todos os números de 1 a um determinado número.<br/> 
+> Adicione 1 a 4: 10<br/> 
+> Adicione 1 a 100: 5050<br/>  
+> [Resposta](exerc_66.cpp)<br/> 
+
