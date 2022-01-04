@@ -127,6 +127,19 @@
 
 
 
+## Exercício 13
+
+> Escreva um programa em C ++ para trocar dois números.<br/> 
+> Saída esperada:<br/> 
+> Trocar dois números:<br/> 
+> -----------------------<br/> 
+> Insira o primeiro número: 25<br/> 
+> Insira o segundo número: 39<br/> 
+> Após a troca, o primeiro número é : 39<br/> 
+> Depois de trocar, o segundo número é: 25<br/> 
+> [Resposta](exerc_13.cpp)<br/>
+
+
 ## Exercício 15
 > Escreva um programa em C ++ para calcular o volume de um cubo.<br/>
 > Saída esperada:<br/>
