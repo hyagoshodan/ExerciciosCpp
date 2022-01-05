@@ -178,6 +178,16 @@
 
 
 
+## Exercício 19
+> Escreva um programa em C ++ para encontrar a área e a circunferência de um círculo.<br/> 
+> Saída esperada:<br/>
+> Encontre a área e a circunferência de qualquer círculo:<br/>
+> ----------------------------------------------------<br/>
+> Insira o raio (1/2 do diâmetro) de um círculo: 5<br/>
+> A área do círculo é: 78,5397<br/>
+> A circunferência do círculo é: 31,4159<br/>
+
+
 ## Exercício 23
 
 >Escreva um programa em C ++ que converta quilômetros por hora em milhas por hora.<br/> 
