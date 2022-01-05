@@ -193,6 +193,20 @@
 
 ## Execício 20
 ### Material didático: https://www.youtube.com/watch?v=ynyQMkT3tiM
+> Escreva um programa em C ++ para converter a temperatura em Celsius em Fahrenheit.<br/>
+> Saída esperada:<br/>
+> Converta a temperatura em Fahrenheit para Celsius:<br/>
+> ---------------------------------------------------<br/>
+> Insira a temperatura em Celsius: 95<br/>
+> A temperatura em Celsius: 95<br/>
+> A temperatura em Fahrenheit: 35<br/>
+> [Resposta](exerc_20.cpp)<br/>
+
+
+
+
+## Execício 21
+### Material didático: https://www.youtube.com/watch?v=ynyQMkT3tiM
 > Escreva um programa em C ++ para converter a temperatura em Fahrenheit para Celsius.<br/>
 > Saída esperada:<br/>
 > Converta a temperatura em Fahrenheit para Celsius:<br/>
@@ -200,7 +214,7 @@
 > Insira a temperatura em Fahrenheit: 95<br/>
 > A temperatura em Fahrenheit: 95<br/>
 > A temperatura em Celsius: 35<br/>
-> [Resposta](exerc_19.cpp)<br/>
+> [Resposta](exerc_21.cpp)<br/>
 
 
 
