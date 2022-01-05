@@ -191,6 +191,19 @@
 > [Resposta](exerc_19.cpp)<br/>
 
 
+## Execício 20
+### Material didático: https://www.youtube.com/watch?v=ynyQMkT3tiM
+> Escreva um programa em C ++ para converter a temperatura em Fahrenheit para Celsius.<br/>
+> Saída esperada:<br/>
+> Converta a temperatura em Fahrenheit para Celsius:<br/>
+> ---------------------------------------------------<br/>
+> Insira a temperatura em Fahrenheit: 95<br/>
+> A temperatura em Fahrenheit: 95<br/>
+> A temperatura em Celsius: 35<br/>
+> [Resposta](exerc_19.cpp)<br/>
+
+
+
 ## Exercício 23
 
 >Escreva um programa em C ++ que converta quilômetros por hora em milhas por hora.<br/> 
