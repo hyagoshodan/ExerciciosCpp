@@ -179,6 +179,8 @@
 
 
 ## Exercício 19
+### Material didático: https://www.youtube.com/watch?v=R-sjOtYdmHs
+### Material didático: https://www.youtube.com/watch?v=3RKjclErNMo
 > Escreva um programa em C ++ para encontrar a área e a circunferência de um círculo.<br/> 
 > Saída esperada:<br/>
 > Encontre a área e a circunferência de qualquer círculo:<br/>
@@ -186,6 +188,7 @@
 > Insira o raio (1/2 do diâmetro) de um círculo: 5<br/>
 > A área do círculo é: 78,5397<br/>
 > A circunferência do círculo é: 31,4159<br/>
+> [Resposta](exerc_19.cpp)<br/>
 
 
 ## Exercício 23
