@@ -197,9 +197,9 @@
 > Saída esperada:<br/>
 > Converta a temperatura em Fahrenheit para Celsius:<br/>
 > ---------------------------------------------------<br/>
-> Insira a temperatura em Celsius: 95<br/>
-> A temperatura em Celsius: 95<br/>
-> A temperatura em Fahrenheit: 35<br/>
+> Insira a temperatura em Celsius: 35<br/>
+> A temperatura em Celsius: 35<br/>
+> A temperatura em Fahrenheit: 95<br/>
 > [Resposta](exerc_20.cpp)<br/>
 
 
