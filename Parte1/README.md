@@ -245,13 +245,25 @@
 
 ## Exercício 26
 > Escreva um programa em C++ para converter temperatura em Fahrenheit para Kelvin. <br/>
-> Sample Output:<br/>
+> Saída esperada:<br/>
 > Convert temperature in Fahrenheit to Kelvin :<br/>
 > -----------------------------------------------------------------<br/>
 > Insira a temperatura em Fahrenheit : 80,33<br/>
 > A temperatura em Fahrenheit : 80,33<br/>
 > A temperatura em Kelvin : 300<br/>
->[Resposta](exerc_26.cpp)<br/> 
+> [Resposta](exerc_26.cpp)<br/> 
+
+
+## Exercício 27
+
+> Escreva um programa em C++ para converter a temperatura de Celsius para Kelvin.<br/> 
+> Saída esperada:<br/> 
+> Convert temperature in Celsius to Kelvin :<br/> 
+> ---------------------------------------------------<br/> 
+> Insira a temperatura em Celsius: 26,85<br/> 
+> A temperatura em Celsius: 26,85<br/> 
+> A temperatura em Kelvin: 300<br/> 
+> [Resposta](exerc_27.cpp)<br/> 
 
 
 ## Exercício 38
